@@ -51,7 +51,6 @@ GICSP certified. Based just outside Copenhagen, Denmark. Operating across Europe
 
 - [LinkedIn](https://www.linkedin.com/in/tomstryhn/), professional content and occasional strong opinions
 - [sndnss.dk](https://www.sndnss.dk), my own company (sndnss aps), where development and side projects happen
-- [Globeteam](https://globeteam.com/en/consultant/tom-stryhn/), the consulting house, where client engagements run
 
 ---
 
